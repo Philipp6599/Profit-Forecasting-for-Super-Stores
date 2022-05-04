@@ -7,15 +7,19 @@ We use machine learning algorithms to predict the profit of a sold product in th
 The project is divided in four notebooks, which are explained in the following sections. 
 
 ## Data Understanding
+...
 
 
 ## Profit Forecasting
+...
 
 
 ## Profit Forecasting with neural network 
+...
 
 
 ## Feature Importance 
+...
 
 
 
