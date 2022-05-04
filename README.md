@@ -10,7 +10,7 @@ The project is divided in four notebooks, which are explained in the following s
 This notebook gives an insight of the used dataset. Visualizations of the data are provided.
 
 ## Profit Forecasting
-This is the main notebook which implement the ML pipeline. Following steps are ...:
+This is the main notebook which implement the ML pipeline. Following steps are implemented:
 1) Data Preparation with Feature Engineering and scaling of the data 
 2) Modelling phase with algorithm selection and training phase
 3) Evaluation of the different trained models on test data
