@@ -1,1 +1,1 @@
-# Profit-Forecasting-for-Super-Stores
+# Profit Forecasting for Super Stores
