@@ -21,8 +21,7 @@ Nonetheless, the data preparation is done in the same way as in the main pipelin
 
 
 ## Hyperparameter_Optimization
-This notebook provides further analytics of the result of the forecasts. 
-It analyses the differences of feature importance for the implemented algorithms.
+This notebook contains the implementation of sklearn's hyperopt package for hyperparameter tuning. It tunes the parameters of the XGBoost, Gradient Boosting, Decision Tree Regressor and linear regression. 
 
 
 
