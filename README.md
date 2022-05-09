@@ -11,7 +11,7 @@ This notebook gives an insight of the used dataset. Visualizations of the data a
 
 ## Profit_Forecasting
 This is the main notebook which implement the ML pipeline. Following steps are implemented:
-1) Data Preparation with Feature Engineering and scaling of the data 
+1) Data Preparation with feature engineering and scaling of the data 
 2) Modelling phase with algorithm selection and training phase
 3) Evaluation of the different trained models on test data
 
