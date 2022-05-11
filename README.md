@@ -1,4 +1,4 @@
-# Profit Forecasting for Super Stores
+# Machine Learning based Profit Forecasting for Super Stores
 
 This repository contains a machine learning project for profit forecasting. 
 The forecasting is done on a dataset from Kaggle which contains sales data of an american super store for office supplies. 
